@@ -1,0 +1,38 @@
+{
+  "name": "css-selector-replace-classes",
+  "description": "Replace CSS selector classes",
+  "version": "0.0.0",
+  "homepage": "https://github.com/andrezsanchez/css-selector-replace-classes",
+  "author": {
+    "name": "Andre Z. Sanchez",
+    "email": "andrezacsanchez@gmail.com",
+    "url": "http://andrezs.com"
+  },
+  "dependencies": {
+    "css-selector-parser": "^1.0.3"
+  },
+  "devDependencies": {
+    "tap-spec": "~0.2.0",
+    "tape": "^2.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrezsanchez/css-selector-replace-classes"
+  },
+  "keywords": [
+    "css",
+    "replace",
+    "replacement",
+    "class",
+    "classes",
+    "selector",
+    "selectors"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "tape test.js | tap-spec"
+  },
+  "license": "MIT"
+}
