@@ -4,6 +4,8 @@ Replace CSS classes within a selector.
 
 [![build status](https://secure.travis-ci.org/andrezsanchez/css-selector-replace-classes.png)](http://travis-ci.org/andrezsanchez/css-selector-replace-classes)
 
+[![browser support](https://ci.testling.com/andrezsanchez/css-selector-replace-classes.png)](http://ci.testling.com/andrezsanchez/css-selector-replace-classes)
+
 # example
 
 ```javascript
