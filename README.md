@@ -1,8 +1,8 @@
-[![build status](https://secure.travis-ci.org/andrezsanchez/css-selector-replace-classes.png)](http://travis-ci.org/andrezsanchez/css-selector-replace-classes)
-
 # css-selector-replace-classes
 
 Replace CSS classes within a selector.
+
+[![build status](https://secure.travis-ci.org/andrezsanchez/css-selector-replace-classes.png)](http://travis-ci.org/andrezsanchez/css-selector-replace-classes)
 
 # example
 
