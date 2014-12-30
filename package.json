@@ -34,15 +34,5 @@
   "scripts": {
     "test": "tape test.js | tap-spec"
   },
-  "testling": {
-    "files": "test.js",
-    "browsers": [
-      "ie/6..latest",
-      "chrome/28..latest",
-      "firefox/23..latest",
-      "safari/latest",
-      "opera/latest"
-    ]
-  },
   "license": "MIT"
 }
